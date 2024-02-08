@@ -1,5 +1,6 @@
 # flask-restx-web-app
-  Nom du Projet
+  Nom du Projet:
+  
 Ce projet est une application web développée en Python avec le framework Flask.
 
   Configuration
